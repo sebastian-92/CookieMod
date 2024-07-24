@@ -1,4 +1,5 @@
-        if (typeof CCSE === 'undefined') {
+if(BakingSoda === undefined) var BakingSoda = {};
+if (typeof CCSE === 'undefined') {
             Game.LoadMod('https://klattmose.github.io/CookieClicker/CCSE.js');
         }
 
