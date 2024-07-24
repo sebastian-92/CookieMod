@@ -17,4 +17,3 @@
                 CCSE.postLoadHooks.push(BakingSoda.launch);
             }
         }
-    }
